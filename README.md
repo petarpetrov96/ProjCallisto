@@ -12,7 +12,7 @@ It is assumed for the Client part of the application that GLEW, GLFW and GLM are
 
 ## How to run
 
-1. Run compile.bat in Client/ and Server/ directories
+1. Run compile.bat in Client/ and Server/ directories (optional, only do it if the Libraries folder has been setup correctly)
 2. Run Server/bin/Server.exe 
 3. Run Client/bin/Callisto.exe, type 127.0.0.1 in the IP box and press Connect
 4. Controls are the arrow keys for movement and space for flying up, gravity automatically drops the player down
